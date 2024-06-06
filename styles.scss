@@ -1,0 +1,9 @@
+$info: #AAC8A7;
+$primay: #FEFCF3;
+
+$theme-colors: (
+  "info": $info,
+  "primary": $primay,
+);
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
